@@ -24,7 +24,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com
+git clone https://github.com/Darwin00110/WinAutomate.git
 ```
 
 2. Enter the directory:
